@@ -1,0 +1,15 @@
+i can write the function step by step 
+---------------------------------------------------------------
+1.) ProductController
+2.) Get Products - Done.
+3.) Add a product - Done.
+4) Get one product - Done.
+5) Filter Product - Done.
+6) Rate product. - Done.
+7) Add items to Cart - Done.
+8) Get items of cart - Done.
+9) Remove items from cart. - Done.
+
+10) UserController
+11) Signup - Email, Name, Password, TypeOfUser(customer, seller) - Done.
+12) Signin - (Email, Password) - Done.
